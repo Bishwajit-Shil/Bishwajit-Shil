@@ -5,11 +5,13 @@ I am an Artificial Intelligence application developer with extensive experience 
 
     **Programming Languages**
     Python, Kotlin, Fortran
+    
     **Machine Learning & Deep Learning Algorithms**
     Regression, Classification, Object Detection,Linear Regression, Segmentation, KNN, ANN and CNN and furthermore others computer vision and image processing     algorithms.
     
     ** Libraries and Frameworks**
     Python, Scikit-Learn, NumPy, Pandas, TensorFlow, OpenCV and Matplotlib
+    
     **    Others**
     Android Development, Linux, Jupiter-Notebook, Google-Colab, Virtual Environment, Sublime-Text, Microsoft-Powerpoint, Excel, Word, Git
 
