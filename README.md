@@ -1,5 +1,5 @@
 
-Bishwajit Shil (Jit Shil)
+# Bishwajit Shil (Jit Shil)
 
 I am an Artificial Intelligence application developer with extensive experience with Linux system. I have played with a lots of tools and technologies. However, I like to to call these tools and tech. as my primary skill for applications development.
 
@@ -17,3 +17,27 @@ I am an Artificial Intelligence application developer with extensive experience 
 
 Also, I am very comfortable with HTML5, CSS3 and some-cutting edge front end technologies. Apart from development, I love reading and writting.
 Programming is my passion and always ready to take challenges for any kind of unique or challenging tasks. I'm a quick learner and enjoy being challenged and engaging with projects that require me to work outside my comfort-zone and knowledge set, as continuing to learn new technologies and development techniques.
+
+- 📫 How to reach me: https://bishwajit-shil.github.io/jit-portfolio/ 
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/Bishwajit-Shil" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/bishwajit-shil-bb0127203/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.kaggle.com/jitshil143" target="_blank">
+<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+</a>
+<a href="https://web.facebook.com/profile.php?id=100006236775749" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>  
+</div>  
+
+<br/>
+
+<br/>
+<p align="center"><strong>Thanks 👏 for Visiting!</strong></p>
