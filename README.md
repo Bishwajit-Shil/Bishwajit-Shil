@@ -18,7 +18,7 @@ I am an Artificial Intelligence application developer with extensive experience 
 Also, I am very comfortable with HTML5, CSS3 and some-cutting edge front end technologies. Apart from development, I love reading and writting.
 Programming is my passion and always ready to take challenges for any kind of unique or challenging tasks. I'm a quick learner and enjoy being challenged and engaging with projects that require me to work outside my comfort-zone and knowledge set, as continuing to learn new technologies and development techniques.
 
-- 📫 How to reach me: https://bishwajit-shil.github.io/jit-portfolio/ 
+## - 📫 How to reach me: https://bishwajit-shil.github.io/jit-portfolio/ 
 
 
 ## Connect with me  
