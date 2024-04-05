@@ -18,12 +18,15 @@ I am an Artificial Intelligence application developer with extensive experience 
 Also, I am very comfortable with HTML5, CSS3 and some-cutting edge front end technologies. Apart from development, I love reading and writting.
 Programming is my passion and always ready to take challenges for any kind of unique or challenging tasks. I'm a quick learner and enjoy being challenged and engaging with projects that require me to work outside my comfort-zone and knowledge set, as continuing to learn new technologies and development techniques.
 
-## - 📫 How to reach me: https://bishwajit-shil.github.io/jit-portfolio/ 
 <br/>
-###  My Thesis paper:    https://drive.google.com/file/d/1OpBZzh6Ktv49KboWxlf-Dh9pD-X28UxQ/view?usp=sharing
+
+#### My Thesis paper:    https://drive.google.com/file/d/1OpBZzh6Ktv49KboWxlf-Dh9pD-X28UxQ/view?usp=sharing
 
 
 ## Connect with me  
+## - 📫 Website: https://bishwajit-shil.github.io/jit-portfolio/ 
+
+<br/>
 <div align="center">
 <a href="https://github.com/Bishwajit-Shil" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
