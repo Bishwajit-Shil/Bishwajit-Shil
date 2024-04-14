@@ -20,8 +20,8 @@ Programming is my passion and always ready to take challenges for any kind of un
 
 <br/>
 
-#### My Thesis paper:    https://drive.google.com/file/d/1OpBZzh6Ktv49KboWxlf-Dh9pD-X28UxQ/view?usp=sharing
-
+## <a href="https://drive.google.com/file/d/1OpBZzh6Ktv49KboWxlf-Dh9pD-X28UxQ/view?usp=sharing" target="_blank"> My Thesis paper </a>
+## <a href="https://drive.google.com/file/d/1sBfQfx4kXec1XAcm28_Si7cGcW909zYs/view?usp=sharing"> My CV </a>
 
 ## Connect with me  
 ## - 📫 Website: https://bishwajit-shil.github.io/jit-portfolio/ 
