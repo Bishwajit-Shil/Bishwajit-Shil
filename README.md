@@ -20,7 +20,6 @@ Programming is my passion and always ready to take challenges for any kind of un
 
 <br/>
 
-## <a href="https://drive.google.com/file/d/1OpBZzh6Ktv49KboWxlf-Dh9pD-X28UxQ/view?usp=sharing" target="_blank"> My Thesis paper </a>
 
 
 ## Connect with me  
